@@ -1,3 +1,4 @@
+//Write a program to print the sum of the first 10 numbers
 
 void main(){
 	int sum=0;
